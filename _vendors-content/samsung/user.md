@@ -17,7 +17,7 @@ manufacturer: samsung
 5. [ Android Marshmallow and older ](#android-marshmallow-and-older ) <br>
 
 
-## Android 13
+https://github.com/DavidAnson/markdownlint/blob/9c77f92616c063a5d42f165cae2edb9e3418ac53/doc/md041.md?plain=1#L1## Android 13
 
 The settings are mostly the same as Android 11 below, with a few changes:
 
